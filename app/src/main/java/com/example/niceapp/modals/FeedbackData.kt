@@ -2,7 +2,7 @@ package com.example.niceapp.modals
 
 import com.google.firebase.database.PropertyName
 
-data class FeedbackData(
+data class  FeedbackData(
 
     @PropertyName("studentName")
     val studentName: String = "",
