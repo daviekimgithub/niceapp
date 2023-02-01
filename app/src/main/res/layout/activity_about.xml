@@ -137,7 +137,7 @@
                             android:layout_alignParentStart="true"
                             android:layout_marginStart="10dp"
                             android:layout_centerHorizontal="false"
-                            android:text="@string/about_stumate"
+                            android:text="@string/about_uoe_readzone"
                             android:layout_below="@id/versionNumber"
                             android:textColor="@color/colorPrimary"
                             android:textStyle="bold"
@@ -241,7 +241,7 @@
                         <TextView
                             android:layout_width="match_parent"
                             android:layout_height="wrap_content"
-                            android:text="@string/mr_saikiran_kopparthi"
+                            android:text="@string/dev_davie"
                             android:layout_toEndOf="@id/imageCard"
                             android:layout_marginTop="15dp"
                             android:layout_marginStart="25dp"
@@ -328,7 +328,7 @@
                         <TextView
                             android:layout_width="match_parent"
                             android:layout_height="wrap_content"
-                            android:text="@string/ms_prathyusha_kuppili"
+                            android:text="@string/dev_ariq"
                             android:layout_toEndOf="@id/imageCard2"
                             android:layout_marginTop="15dp"
                             android:layout_marginStart="25dp"
@@ -427,7 +427,7 @@
                 <TextView
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
-                    android:text="@string/knvrssaikiran_gmail_com"
+                    android:text="@string/dev_davie_email"
                     android:layout_below="@id/txtFeedDesc"
                     android:layout_marginTop="8dp"
                     android:layout_marginStart="10dp"

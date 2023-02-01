@@ -31,6 +31,7 @@ import com.example.niceapp.modals.DashboardIconData
 import com.example.niceapp.modals.NewsData
 import com.example.niceapp.utils.AppPreferences
 import com.google.android.material.appbar.MaterialToolbar
+import com.google.android.material.bottomnavigation.BottomNavigationView
 import kotlinx.android.synthetic.main.activity_home.*
 
 
@@ -50,10 +51,10 @@ class HomeActivity : AppCompatActivity() {
         bottomnav=findViewById(R.id.bottomnav)
         AppPreferences.init(this)
 
-        // Google AdMob
-        MobileAds.initialize(this) {}
-        val adRequest = AdRequest.Builder().build()
-        adView.loadAd(adRequest)
+//        // Google AdMob
+//        MobileAds.initialize(this) {}
+//        val adRequest = AdRequest.Builder().build()
+//        adView.loadAd(adRequest)
 
 
 

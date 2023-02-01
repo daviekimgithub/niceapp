@@ -50,7 +50,7 @@
         android:layout_height="wrap_content"
         android:layout_alignParentStart="true"
         android:textSize="12sp"
-        android:text="@string/saikiran_kopparthi"
+        android:text="@string/david_kimani"
         android:textStyle="italic"
         android:id="@+id/studentName"
         android:drawablePadding="3dp"

@@ -131,7 +131,7 @@
         <TextView
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:text="@string/posted_by_saikiran_kopparthi_5_minutes_ago"
+            android:text="@string/posted_by_david_kimani_5_minutes_ago"
             android:layout_margin="10dp"
             android:textSize="13sp"
             android:id="@+id/studentName"

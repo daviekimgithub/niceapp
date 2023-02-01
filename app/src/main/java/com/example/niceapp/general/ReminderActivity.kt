@@ -325,7 +325,7 @@ class ReminderActivity : AppCompatActivity() {
                                 successDialog.setContentView(R.layout.upload_success_layout)
                                 successDialog.window!!.setBackgroundDrawableResource(android.R.color.transparent)
                                 successDialog.findViewById<TextView>(R.id.dialogText).setText("Notification Sent Successfully to all the Class Mates!")
-                                successDialog.findViewById<Button>(R.id.back_to_home).setOnClickListener {
+                            successDialog.findViewById<Button>(R.id.back_to_home).setOnClickListener {
                                     val intent = Intent(this@ReminderActivity,HomeActivity::class.java)
                                     intent.addFlags(Intent.FLAG_ACTIVITY_CLEAR_TASK)
                                     intent.addFlags(Intent.FLAG_ACTIVITY_CLEAR_TOP)

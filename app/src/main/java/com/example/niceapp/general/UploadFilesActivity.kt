@@ -12,6 +12,7 @@ import android.widget.ImageView
 import android.widget.TextView
 import android.widget.Toast
 import androidx.appcompat.app.AppCompatActivity
+import androidx.appcompat.widget.AppCompatButton
 import com.android.volley.Response
 import com.android.volley.VolleyError
 import com.android.volley.toolbox.JsonObjectRequest
@@ -430,7 +431,7 @@ class UploadFilesActivity : AppCompatActivity() {
                                 dialog.setContentView(R.layout.upload_success_layout)
                                 dialog.setCanceledOnTouchOutside(false)
                                 dialog.setCancelable(false)
-                                dialog.findViewById<MaterialButton>(R.id.back_to_home).setOnClickListener {
+                                dialog.findViewById<AppCompatButton>(R.id.back_to_home).setOnClickListener {
                                     dialog.dismiss()
                                     val intent = Intent(this@UploadFilesActivity, HomeActivity::class.java)
                                     intent.flags = Intent.FLAG_ACTIVITY_CLEAR_TOP or Intent.FLAG_ACTIVITY_SINGLE_TOP
