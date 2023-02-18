@@ -16,5 +16,6 @@
     <color name="colorLightPrimary">#C8EFBF7C</color>
     <color name="colorLightGrey">#FCDFC39A</color>
     <color name="colorGreen">#38c172</color>
+    <color name="red">#FF0000</color>
 
 </resources>

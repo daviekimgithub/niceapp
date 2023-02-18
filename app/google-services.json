@@ -1,50 +1,42 @@
 {
   "project_info": {
-    "project_number": "788108926438",
-    "firebase_url": "https://igneous-capsule-375515-default-rtdb.firebaseio.com",
-    "project_id": "igneous-capsule-375515",
-    "storage_bucket": "igneous-capsule-375515.appspot.com"
+    "project_number": "398435575848",
+    "firebase_url": "https://student-studi-app-default-rtdb.firebaseio.com",
+    "project_id": "student-studi-app",
+    "storage_bucket": "student-studi-app.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:788108926438:android:f2b3a78e8f1df76244ca27",
+        "mobilesdk_app_id": "1:398435575848:android:1a9a8c0268258749f46d1d",
         "android_client_info": {
           "package_name": "com.example.niceapp"
         }
       },
       "oauth_client": [
         {
-          "client_id": "788108926438-4a040pfs6eq3aoscemq8a0b08qn0snco.apps.googleusercontent.com",
+          "client_id": "398435575848-soh7veuii5o0vhhaqvho8aalf7v441qc.apps.googleusercontent.com",
           "client_type": 1,
           "android_info": {
             "package_name": "com.example.niceapp",
-            "certificate_hash": "978d5935913d173b758508ca92e7eccf40bf11ac"
+            "certificate_hash": "ae54b9fcb30f839d235115a07379be71dcb584b4"
           }
         },
         {
-          "client_id": "788108926438-5ri9vbh5hdtnjg0lmp17vfq0hiai9gec.apps.googleusercontent.com",
-          "client_type": 1,
-          "android_info": {
-            "package_name": "com.example.niceapp",
-            "certificate_hash": "5357bc5f91a3b4bd95ea2ebd5a2f7939fc06813c"
-          }
-        },
-        {
-          "client_id": "788108926438-akvbrn4rjimooe1tva6q299hvg7aadlh.apps.googleusercontent.com",
+          "client_id": "398435575848-a2d2mg7qmjmtr419oh10k6mupdn4g2er.apps.googleusercontent.com",
           "client_type": 3
         }
       ],
       "api_key": [
         {
-          "current_key": "AIzaSyAm_iFgSfpXBxxnj9xtUhe-ZyCR-7GlVrM"
+          "current_key": "AIzaSyAvDbwXXRQ1VP9HOl1GrIT9S5MU477v10c"
         }
       ],
       "services": {
         "appinvite_service": {
           "other_platform_oauth_client": [
             {
-              "client_id": "788108926438-akvbrn4rjimooe1tva6q299hvg7aadlh.apps.googleusercontent.com",
+              "client_id": "398435575848-2lfkpru4i42dmqskqrmj3jri7i2itcno.apps.googleusercontent.com",
               "client_type": 3
             }
           ]

@@ -62,6 +62,7 @@ class AuthenticationActivity : AppCompatActivity() {
         editPasswordIn=findViewById(R.id.editPasswordIn)
         backButton=findViewById(R.id.welcomeBackButton)
 
+
         googleSign.setOnClickListener {
             signIn()
         }
